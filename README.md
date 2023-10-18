@@ -47,7 +47,7 @@ I would love to see insight suggestions from anyone who finds this work interest
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://github.com/MichaelOmosebi/analyse-data_science-books/blob/main/LICENSE)https://github.com/MichaelOmosebi/analyse-data_science-books/blob/main/LICENSE).
 
 
 
