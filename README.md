@@ -19,9 +19,8 @@ The goal of this project is to provide insights and visualization based on the t
 To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies (see the [Dependencies](#dependencies) section for details).
-3. Get the EIU dataset for Global liveable cities (see the [Data](#data) section for details).
-4. Run the project script or notebook to generate visualization and explore the data.
+2. Install the required dependencies (as outlined in the _import line_ of each notebook/project_stage).
+3. Run the project script or notebook to generate visualization and explore the data.
 
 ## Data
 
@@ -33,7 +32,7 @@ As at the time of publishing this project ```Goodreads``` allows scraping and ha
 
 Kindly follow these steps to use this project:
 
-1. Ensure you have the required dependencies installed (see the [Dependencies](#dependencies) section).
+1. Ensure you have the required dependencies installed (as outlined in the _import line_ of each notebook/project_stage).
 2. Endeavor to breakdown the code and tweak as you deem fit to generate your own data or you may go ahead to utilize the final data.
 3. Run the project script or notebook using Python.
 ```NOTE```: Some packages may required heavy data downloads on your first import.
