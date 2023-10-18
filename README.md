@@ -13,7 +13,7 @@ Being able to analyse feedbacks from book readers (main readers and forewards) i
 
 ## Project Overview📖
 
-The goal of this project is to provide insights and visualization based on the the Top 10 and Bottom 10 cities to Live in 2023 by the Economist Intelligence Unit(EIU). It rates living conditions in 173 cities across these five categories: stability, health care, culture and environment, education and infrastructure.
+The goal of this project is to help individuals who need to make a decision on which Data Science books to read. It shows how to gather data on the available data science books, summarize and carry out sentiment analysis of reviews on the different classifications of Data Science books.
 
 ## Getting Started 🏁
 To get started with the project, follow these steps:
