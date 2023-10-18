@@ -1,5 +1,5 @@
 # Sentiment Analysis of Book Reviews
-Being able to analyse feedbacks from book readers (main readers and forewards) is both interesting and enlightening. For this project the main idea stemmed from the need to pick one DAta Science Book at a time for personal study, hence it was necessary for have an analysis of the available Data Science books to guide my choice.
+Being able to analyse feedbacks from book readers (main readers and forewards) is both interesting and enlightening. For this project the main idea stemmed from the need to pick one Data Science Book at a time for personal study, hence it was necessary for have an analysis of the available Data Science books to guide my choice.
 
 ## Table of Contents
 
