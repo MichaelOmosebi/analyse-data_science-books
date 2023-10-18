@@ -5,9 +5,7 @@ Being able to analyse feedbacks from book readers (main readers and forewards) i
 
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
 - [Data](#data)
-##- [Dashboard](#Table-Dashboard-Result)
 - [Usage](#usage)
 - [Acknowledgement](#acknowledgement)
 - [Contributing](#contributing)
@@ -24,14 +22,6 @@ To get started with the project, follow these steps:
 2. Install the required dependencies (see the [Dependencies](#dependencies) section for details).
 3. Get the EIU dataset for Global liveable cities (see the [Data](#data) section for details).
 4. Run the project script or notebook to generate visualization and explore the data.
-
-## Dependencies
-
-The project relies on the following dependencies:
-
-- Python 3
-- Pandas
-- Plottable
 
 ## Data
 
